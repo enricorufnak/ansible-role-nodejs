@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.org/enricorufnak/ansible-role-nodejs.svg?branch=master)](https://travis-ci.org/enricorufnak/ansible-role-nodejs)
+
 Ansible Role: Node.js
 =====================
 
-Installs Node.js on Ubuntu.
+Install Node.js on Ubuntu.
 
 Requirements
 ------------
